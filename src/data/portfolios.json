@@ -1,0 +1,75 @@
+{
+    "riskLevels": [
+        {
+            "Stocks": 80,
+            "Bonds": 10,
+            "ETF": 10,
+            "Options": 0,
+            "Crypto": 0
+        },
+        {
+            "Stocks": 70,
+            "Bonds": 20,
+            "ETF": 10,
+            "Options": 0,
+            "Crypto": 0
+        },
+        {
+            "Stocks": 60,
+            "Bonds": 20,
+            "ETF": 20,
+            "Options": 0,
+            "Crypto": 0
+        },
+        {
+            "Stocks": 50,
+            "Bonds": 30,
+            "ETF": 20,
+            "Options": 0,
+            "Crypto": 0
+        },
+        {
+            "Stocks": 40,
+            "Bonds": 30,
+            "ETF": 20,
+            "Options": 10,
+            "Crypto": 0
+        },
+        {
+            "Stocks": 20,
+            "Bonds": 30,
+            "ETF": 20,
+            "Options": 20,
+            "Crypto": 10
+        },
+        {
+            "Stocks": 20,
+            "Bonds": 20,
+            "ETF": 20,
+            "Options": 20,
+            "Crypto": 20
+        },
+        {
+            "Stocks": 10,
+            "Bonds": 20,
+            "ETF": 20,
+            "Options": 30,
+            "Crypto": 20
+        },
+        {
+            "Stocks": 10,
+            "Bonds": 10,
+            "ETF": 20,
+            "Options": 30,
+            "Crypto": 30
+        },
+        {
+            "Stocks": 10,
+            "Bonds": 10,
+            "ETF": 10,
+            "Options": 40,
+            "Crypto": 30
+        }
+
+    ]
+}

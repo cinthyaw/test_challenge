@@ -1,0 +1,30 @@
+// Global Styles
+
+.riskList {
+    list-style: none
+}
+
+.rowDiv {
+    
+    display: flex;
+
+}
+
+.headerBox {
+    margin-left: 20px;
+}
+
+.container {
+    display: flex;
+    flex: 1 auto;
+}
+
+.flow-text {
+    margin-bottom: 2rem;
+}
+
+
+
+// Components
+@import 'components/RiskChoice/RiskChoice';
+@import 'components/PortfolioTable/PortfolioTable';
